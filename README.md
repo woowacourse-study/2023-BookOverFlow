@@ -14,5 +14,5 @@
 
 ## 커밋 규칙
 
-`docs:` prefix를 표기합니다.
+`docs:` prefix를 표기합니다.  
 (ex. docs: 링링 1장 정리)
