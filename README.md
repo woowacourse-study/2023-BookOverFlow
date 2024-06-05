@@ -1,4 +1,4 @@
-# 2023-BookOverFlow-Study!
+# 2023-BookOverFlow-Study!
 
 ## 프로젝트 구조
 
